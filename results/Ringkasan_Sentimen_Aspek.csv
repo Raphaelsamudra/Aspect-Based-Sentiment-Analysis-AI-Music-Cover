@@ -1,0 +1,11 @@
+﻿aspek,label_final,jumlah,total_aspek,persentase
+Aktivitas Pendengar,negative,71,1866,3.8
+Aktivitas Pendengar,positive,1795,1866,96.2
+Konten & Teknologi AI,negative,287,3014,9.52
+Konten & Teknologi AI,positive,2727,3014,90.48
+Kualitas Musik & Audio,negative,224,2776,8.07
+Kualitas Musik & Audio,positive,2552,2776,91.93
+Penilaian & Opini,negative,175,7763,2.25
+Penilaian & Opini,positive,7588,7763,97.75
+Tidak Terdeteksi,negative,70,723,9.68
+Tidak Terdeteksi,positive,653,723,90.32

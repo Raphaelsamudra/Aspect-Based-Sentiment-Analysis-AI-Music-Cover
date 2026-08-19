@@ -1,0 +1,5 @@
+﻿Aspek,Akurasi Test,Precision (M),Recall (M),F1-Score (M),Precision (W),Recall (W),F1-Score (W)
+Aktivitas Pendengar,0.9625,0.4813,0.5,0.4904,0.9264,0.9625,0.9441
+Konten & Teknologi AI,0.926,0.9036,0.6261,0.6785,0.9228,0.926,0.907
+Penilaian & Opini,0.9772,0.4886,0.5,0.4942,0.955,0.9772,0.966
+Kualitas Musik & Audio,0.9364,0.9676,0.6045,0.6561,0.9405,0.9364,0.9166
