@@ -1,4 +1,4 @@
-<img width="402" height="668" alt="Screenshot 2026-08-19 155435" src="https://github.com/user-attachments/assets/9599a2d5-ba36-4bfa-afc2-a8afb8ad0043" /># 🎵 Aspect-Based Sentiment Analysis of AI Music Covers
+# 🎵 Aspect-Based Sentiment Analysis of AI Music Covers
 
 An Aspect-Based Sentiment Analysis (ABSA) project for analyzing YouTube comments related to AI-generated music covers.
 
